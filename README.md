@@ -1,4 +1,5 @@
 # Cyclistic Bike Share Analysis ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+
 ### Data analysis of Cyclistic Bike Share usage using Excel for data cleaning and visualization, and PowerPoint for presenting key insights.
 
 ## The presentation covers various aspects of data analytics, including:
