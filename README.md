@@ -27,7 +27,8 @@ The presentation was created as part of my portfolio to showcase my skills in da
 5. Statistical Analysis
 6. Conclusions and Recommendations
 
-[![Click to view the presentation](Cyclistic-Bike-Share-Analysis-Excel-PowerPoint
-/Decoding Cyclistic Bike-Share Project.pdf)
+[![Click to view the presentation]([Cyclistic-Bike-Share-Analysis-Excel-PowerPoint
+/Decoding Cyclistic Bike-Share Project.pdf](https://github.com/DavidDanielz/Cyclistic-Bike-Share-Analysis-Excel-PowerPoint/blob/c09a506b1cffc7992aed43ed76a18ed0a791e3c5/Decoding%20Cyclistic%20Bike-Share%20Project.pdf))
+
 
 
