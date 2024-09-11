@@ -30,5 +30,7 @@ The presentation was created as part of my portfolio to showcase my skills in da
 [![Click to view the presentation]([Cyclistic-Bike-Share-Analysis-Excel-PowerPoint
 /Decoding Cyclistic Bike-Share Project.pdf](https://github.com/DavidDanielz/Cyclistic-Bike-Share-Analysis-Excel-PowerPoint/blob/c09a506b1cffc7992aed43ed76a18ed0a791e3c5/Decoding%20Cyclistic%20Bike-Share%20Project.pdf))
 
+![Screenshot_9-7-2024_174537_](https://github.com/user-attachments/assets/d790dfe9-6530-423a-bb8e-b44e2fc38cd4)
 
+[![Click to view the presentation](https://github.com/user-attachments/assets/d790dfe9-6530-423a-bb8e-b44e2fc38cd4)](https://github.com/DavidDanielz/Cyclistic-Bike-Share-Analysis-Excel-PowerPoint/blob/c09a506b1cffc7992aed43ed76a18ed0a791e3c5/Decoding%20Cyclistic%20Bike-Share%20Project.pdf))
 
